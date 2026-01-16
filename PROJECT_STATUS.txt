@@ -1,0 +1,57 @@
+PROJECT STATUS — Synthetic DAS Soil Classification
+
+This repository contains a baseline and simplified implementation of a
+synthetic Distributed Acoustic Sensing (DAS) soil classification pipeline.
+
+The purpose of this version is to provide:
+- A transparent and reproducible reference implementation
+- Physics-inspired feature extraction
+- Classical machine learning baselines
+- Fully inspectable code and artifacts
+
+This repository DOES NOT represent the final or most advanced version
+of the framework.
+
+------------------------------------------------------------
+
+ONGOING DEVELOPMENT
+
+A more advanced version of this pipeline — including extended modeling,
+additional validation strategies, and deeper analysis — is currently
+under active investigation for academic publication.
+
+That version is intentionally NOT included in this repository.
+
+------------------------------------------------------------
+
+OUTPUTS AND ARTIFACTS
+
+Derived artifacts (datasets, figures, metrics, examples) are not tracked
+directly in the repository.
+
+Instead, representative outputs from fixed, timestamped executions are
+provided via GitHub Releases.
+
+This design choice keeps the repository lightweight while preserving
+full reproducibility.
+
+------------------------------------------------------------
+
+INTENDED USE
+
+This code is intended for:
+- Methodological experimentation
+- Educational and research purposes
+- Benchmarking and baseline comparisons
+
+It should not be interpreted as a field-calibrated or production-ready
+DAS inversion or soil classification system.
+
+------------------------------------------------------------
+
+AUTHOR NOTE
+
+This repository is part of an ongoing research effort.
+The baseline version is shared openly to encourage discussion,
+inspection, and reproducibility, while more advanced developments
+remain under evaluation.
